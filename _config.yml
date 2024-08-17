@@ -22,22 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Huangjingxiang(黄靖翔)"
+  pronouns         : # example: "he/him"  
+  bio              : "最盛大破茧是与自己告别"
+  location         : "China Nanjing"
+  employer         : "Nanjing University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "raconz1211@gamil.com" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
