@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-### 关于我
 黄靖翔，2024级南京大学新闻与传播专业硕士研究生，计算传播学实验中心成员，师从[王成军](https://chengjun.github.io/)副教授，研究兴趣为计算社会科学、自然语言处理、数据挖掘。
 
 Huang Jingxiang, a 2024 graduate student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Experimental Center. He studies under [Wang Chengjun](https://Chengjun.github.io/), associate professor. His research interests include computational social science, natural language processing, Data mining.
