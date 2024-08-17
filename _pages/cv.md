@@ -12,6 +12,6 @@ redirect_from:
 Education
 ======
 * M.A., Nanjing University, Nanjing China. Department of Journalism and Communication.(September, 2024-June, 2027 Expected).
-* B.A., Harbin Institute of Technology, Shenzhen, Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
+* B.A., Harbin Institute of Technology, Shenzhen, Shenzhen campus, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
 
 
