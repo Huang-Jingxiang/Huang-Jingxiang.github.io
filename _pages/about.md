@@ -1,11 +1,7 @@
 ---
 permalink: /
-title: ""
+title: "最盛大破茧是与自己告别 花树灼灼非关词客眷恋"
 layout: single
-header:""
-excerpt: "
-最盛大破茧是与自己告别 花树灼灼非关词客眷恋
-"
 author_profile: true
 redirect_from: 
   - /about/
