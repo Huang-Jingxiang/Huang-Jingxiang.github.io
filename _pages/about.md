@@ -15,3 +15,4 @@ You can find more detailed info at my CV. In my free time, I like to delve into 
 
 <script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8" height="1200" ></script>
 <wb:show uid="7313617592" width="850" verifier="d3ab13eb"></wb:show>
+![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
