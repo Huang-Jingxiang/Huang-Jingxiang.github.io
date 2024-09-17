@@ -4,13 +4,14 @@ title: "Huang Jingxiang"
 layout: single
 header:
 
-excerpt: "最盛大破茧是与自己告别 花树灼灼非关词客眷恋
-"
+excerpt: "最盛大破茧是与自己告别 花树灼灼非关词客眷恋"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+最盛大破茧是与自己告别 花树灼灼非关词客眷恋
 ## About me
 Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is directed by [Wang Chengjun](https://Chengjun.github.io/), associate professor. His research interests include computational social science, natural language processing and Data mining.
 ## Education
