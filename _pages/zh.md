@@ -1,0 +1,22 @@
+---
+layout: archive
+title: "中文"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+黄靖翔，南京大学2024级新闻与传播专业硕士研究生。他是新闻传播学院计算传播学实验中心的一员，也是苏格拉底实验室的一员。他是从[王成军](https://chengjun.github.io/)副教授。他的研究兴趣包括计算社会科学、自然语言处理和数据挖掘。
+在我的课余时间，我喜欢呆在厨房里捣鼓吃的(这或许能成为我饭点不能及时回消息的理由哈哈)，可以在我的微博看到我的捣鼓日常。同时，我也是一个热衷于去喜欢的歌手线下的社恐(特别是银临)
+> 你要亲眼看尽这世界 尘世不怜人卑怯 就这一命就再锋利些 只管迎刃一战那最痛快的约
+
+![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
+![image](https://user-images.githubusercontent.com/543384/243150540-6efa85e2-8413-44fe-915b-0b0045c3960f.png)
+## 教育经历
+- 2024-2027(预计)，南京大学，新闻传播学院，文学硕士
+- 2020-2024，哈尔滨工业大学(深圳)，计算机科学与技术学院，工学学士
+
+
