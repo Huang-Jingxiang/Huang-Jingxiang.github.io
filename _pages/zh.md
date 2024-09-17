@@ -1,10 +1,9 @@
 ---
-layout: archive
+layout: single
 title: "关于我"
 permalink: /zh/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
