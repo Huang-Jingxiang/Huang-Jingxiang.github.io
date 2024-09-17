@@ -2,11 +2,8 @@
 permalink: /
 title: ""
 layout: single
-header:
-  overlay_image: Bucai.jpeg
-  overlay_filter: rgba(106, 0, 95, 0) # same as adding an opacity of 0.5 to a black background
 excerpt: "
-Welcome to my homepage!
+最盛大破茧是与自己告别 花树灼灼非关词客眷恋
 "
 author_profile: true
 redirect_from: 
