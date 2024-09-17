@@ -1,5 +1,4 @@
 ---
----
 permalink: /
 title: ""
 layout: single
@@ -14,7 +13,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
----
+
 You can find more detailed info at my CV. In my free time, I like to delve into cooking(Maybe you can find it on my Weibo), as well as, I like to go to livehouse to see performances held by my favorite artists(especially Yinlin).
 >  你要亲眼看尽这世界 尘世不怜人卑怯 就这一命就再锋利些 只管迎刃一战那最痛快的约
 
