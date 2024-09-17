@@ -4,9 +4,8 @@ title: ""
 layout: single
 header:
   overlay_image: Bucai.jpeg
-  overlay_filter: rgba(106, 0, 95, 0.25) # same as adding an opacity of 0.5 to a black background
-
-excerpt: "Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is directed by [Wang Chengjun](https://Chengjun.github.io/), associate professor. His research interests include computational social science, natural language processing and Data mining.
+  overlay_filter: rgba(106, 0, 95, 0.1) # same as adding an opacity of 0.5 to a black background
+excerpt: "
 "
 author_profile: true
 redirect_from: 
@@ -14,8 +13,10 @@ redirect_from:
   - /about.html
 ---
 ## About me
-You can find more detailed info at my CV. In my free time, I like to delve into cooking(Maybe you can find it on my Weibo), as well as, I like to go to livehouse to see performances held by my favorite artists(especially Yinlin).
->  你要亲眼看尽这世界 尘世不怜人卑怯 就这一命就再锋利些 只管迎刃一战那最痛快的约
+Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is directed by [Wang Chengjun](https://Chengjun.github.io/), associate professor. His research interests include computational social science, natural language processing and Data mining.
+## Education
+- M.A., Nanjing University, Nanjing China. Department of Journalism and Communication.(September, 2024-June, 2027 Expected).
+- B.A., Harbin Institute of Technology, Shenzhen campus, Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
 
 [Email](raconz1211@gmail.com)/[Github](https://github.com/Huang-Jingxiang)/[Weibo](https://weibo.com/u/7313617592)
 
