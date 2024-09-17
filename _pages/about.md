@@ -14,4 +14,4 @@ You can find more detailed info at my CV. In my free time, I like to delve into 
 [Email](raconz1211@gmail.com)/[Github](https://github.com/Huang-Jingxiang)/[Weibo](https://weibo.com/u/7313617592)
 
 <script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8" height="1200" ></script>
-<wb:show uid="7313617592" width="850" verifier="6f31e019"></wb:show>
+<wb:show uid="7313617592" width="850" verifier="d3ab13eb"></wb:show>
