@@ -4,20 +4,9 @@ title: ""
 layout: single
 header:
   overlay_image: Bucai.jpeg
-  overlay_filter: rgba(106, 0, 95, 0.1) # same as adding an opacity of 0.5 to a black background
+  overlay_filter: rgba(106, 0, 95, 0) # same as adding an opacity of 0.5 to a black background
 excerpt: "
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+Welcome to my homepage!
 "
 author_profile: true
 redirect_from: 
