@@ -6,6 +6,18 @@ header:
   overlay_image: Bucai.jpeg
   overlay_filter: rgba(106, 0, 95, 0.1) # same as adding an opacity of 0.5 to a black background
 excerpt: "
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 "
 author_profile: true
 redirect_from: 
