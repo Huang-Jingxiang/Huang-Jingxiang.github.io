@@ -9,7 +9,7 @@ redirect_from:
 ---
 "最盛大破茧是与自己告别 花树灼灼非关词客眷恋"
 ## About me
-Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is directed by [Wang Chengjun](https://Chengjun.github.io/), associate professor. His research interests include computational social science, natural language processing and Data mining.
+Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is advised by [Wang Chengjun](https://Chengjun.github.io/), associate professor. His research interests include computational social science, natural language processing and Data mining.
 ## Education
 - M.A., Nanjing University, Nanjing China. Department of Journalism and Communication.(September, 2024-June, 2027 Expected).
 - B.A., Harbin Institute of Technology, Shenzhen campus, Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
