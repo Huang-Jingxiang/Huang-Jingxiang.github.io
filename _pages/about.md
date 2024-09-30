@@ -14,6 +14,11 @@ Huang Jingxiang, a 2024 master's student majoring in journalism and communicatio
 - M.A., Nanjing University, Nanjing China. Department of Journalism and Communication.(September, 2024-June, 2027 Expected).
 - B.A., Harbin Institute of Technology, Shenzhen campus, Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
 
+## Skills
+- Python(most frequently used)
+- R(a little)
+- MySQL、C、Java、Verilog(~~have learned it, but almost have forgotten it~~ 😋)
+
 [Email](raconz1211@gmail.com)/[Github](https://github.com/Huang-Jingxiang)/[Weibo](https://weibo.com/u/7313617592)
 
 ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
