@@ -22,6 +22,6 @@ author_profile: true
 - R(学过但不太常用)
 - MySQL、C、Java、Verilog(~~曾经学过但忘得差不多了~~ doge)
 - Photoshop、Premiere(基本使用)
-- 烹饪(哈工大深圳“厨神的诞生”厨艺大赛决赛水平)
+- 烹饪(哈工大深圳“厨神的诞生”厨艺大赛决赛水平、哈工大深圳机电工程与自动化学院“宅家有味亦清欢”厨艺大赛一等奖)
 
 ![image](https://user-images.githubusercontent.com/543384/243150540-6efa85e2-8413-44fe-915b-0b0045c3960f.png)
