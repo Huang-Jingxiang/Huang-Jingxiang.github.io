@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-"最盛大破茧是与自己告别 花树灼灼非关词客眷恋"
+"The grandest metamorphosis is a farewell to oneself; the blossoming trees, radiant and vivid, are not bound by the longing of poems' words."
 ## About me
 Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is advised by [Wang Chengjun](https://Chengjun.github.io/), associate professor. His research interests include computational social science, natural language processing and Data mining.
 ## Education
