@@ -11,8 +11,8 @@ redirect_from:
 ## About me
 Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is advised by [Cheng-jun Wang](https://Chengjun.github.io/), associate professor. His research interests include computational social science, natural language processing and Data mining.
 ## Education
-- M.A., Nanjing University, Nanjing China. Department of Journalism and Communication.(September, 2024-June, 2027 Expected).
-- B.A., Harbin Institute of Technology, Shenzhen campus, Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
+- M.A., Nanjing University, Nanjing, China. Department of Journalism and Communication.(September, 2024-June, 2027 Expected).
+- B.A., Harbin Institute of Technology(Shenzhen), Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
 
 ## Skills
 - Python(most frequently used)
