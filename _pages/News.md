@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Experience"
-permalink: /experience/
+title: "News"
+permalink: /News/
 author_profile: true
 ---
 ## 2024.04.06, Joined SocratesLab.
