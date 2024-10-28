@@ -15,6 +15,8 @@ Huang Jingxiang, a 2024 master's student majoring in journalism and communicatio
 - B.A., Harbin Institute of Technology(Shenzhen), Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
 
 ## Skills
+- Writing: Chinese(native), English(skilled)
+- Speaking: Mandarin(native), English(daily communication), Cantonese(daily communication)
 - Python(most frequently used)
 - R(a little)
 - MySQL、C、Java、Verilog(~~have learned it, but almost have forgotten it~~ 😋)
