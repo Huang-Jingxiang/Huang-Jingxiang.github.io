@@ -12,7 +12,7 @@ main:
     url: /News/    
 
   - title: "Project"
-    urt: /Project/
+    urt: /project/
   
   # - title: "Blog Posts"
   #   url: /year-archive/
