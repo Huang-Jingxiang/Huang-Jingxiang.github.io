@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "project"
-permalink: /project/
+title: "Project"
+permalink: /Project/
 author_profile: true
 ---
 ## Sina spider
