@@ -13,9 +13,6 @@ main:
 
   - title: "Project"
     urt: /project/
-  
-  # - title: "Blog Posts"
-  #   url: /year-archive/
     
   - title: "中文"
     url: /zh/
