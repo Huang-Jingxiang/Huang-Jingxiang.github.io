@@ -2,7 +2,7 @@
 layout: archive
 title: "News"
 permalink: /News/
-author_profile: true
+author_profile: false
 ---
 ## 2024.04.06, Joined SocratesLab.
 I passed the postgraduate entrance examination re-examination and joined SocratesLab. It is a big friendly family!!!!!!
