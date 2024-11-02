@@ -11,8 +11,8 @@ main:
   - title: "News"
     url: /News/    
 
-  - title: "Project"
-    urt: /project/
+  # - title: "Project"
+  #   urt: /project/
     
   - title: "中文"
     url: /zh/
