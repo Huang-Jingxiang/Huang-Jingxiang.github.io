@@ -12,7 +12,7 @@ main:
     url: /News/    
 
   - title: "Project"
-    urt: /project/
+    url: /project/
     
   - title: "中文"
     url: /zh/
