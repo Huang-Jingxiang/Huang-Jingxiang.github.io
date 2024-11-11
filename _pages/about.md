@@ -23,6 +23,8 @@ Huang Jingxiang, a 2024 master's student majoring in journalism and communicatio
 - Photoshop、Premiere(a little)
 - Cooking(HITSZ “厨神的诞生” cooking competition final, “宅家有味亦清欢” cooking competition first prize) & (I am sharing my menu [here](https://huang-jingxiang.github.io/menu/)!)
 
+## Awards
+- The 6th Communication Data Mining Competition, Third Prize (Public opinion trend and influence prediction based on large language model)
 
 [Email](raconz1211@gmail.com)/[Github](https://github.com/Huang-Jingxiang)/[Weibo](https://weibo.com/u/7313617592)
 
