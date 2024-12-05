@@ -10,6 +10,7 @@ author_profile: true
 - Jun 14, 2024, Complete version 1, making it multi-threaded and upload it into Xspace of ScoratesLab
 - Jun 18, 2024, Complete version 2, making it suitable for repost.
 - Oct 14, 2024, Complete version 3, making it suitable for more detail user info.
+- Dec 05, 2024, Complete version 4, Biggggggg update! Now it can get every post of a specific user.
 
 ## ChatGPT & Occupation
 ### schedule
