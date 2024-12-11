@@ -29,6 +29,5 @@ Huang Jingxiang, a 2024 master's student majoring in journalism and communicatio
 [Email](raconz1211@gmail.com)/[Github](https://github.com/Huang-Jingxiang)/[Weibo](https://weibo.com/u/7313617592)
 
 ![image](https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png)
-<script src="//tjs.sjs.sinajs.cn/open/api/js/wb.js" type="text/javascript" charset="utf-8" height="1200" ></script>
-<wb:show uid="7313617592" width="850" verifier="d3ab13eb"></wb:show>
+
 
