@@ -16,6 +16,7 @@ author_profile: true
 ### schedule
 - Jul 24, 2024, Begin this project.
 - Nov 01, 2024, Finished extended abstract, ICA CAT division submission.
+- Jan 27, 2025, writing full paper now.
 
 ## Scanning newspaper into text
 ### schedule
