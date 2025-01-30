@@ -9,7 +9,7 @@ redirect_from:
 ---
 "The grandest metamorphosis is a farewell to oneself; the blossoming trees, radiant and vivid, are not bound by the longing of poems' words."
 ## About me
-Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is advised by Professor [Cheng-jun Wang](https://Chengjun.github.io/). His research interests include computational social science, natural language processing and Data mining.
+Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is advised by Professor [Cheng-Jun Wang](https://Chengjun.github.io/). His research interests include computational social science, natural language processing and Data mining.
 ## Education
 - M.A., Nanjing University, Nanjing, China. Department of Journalism and Communication.(September, 2024-June, 2027 Expected).
 - B.A., Harbin Institute of Technology(Shenzhen), Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
