@@ -17,6 +17,10 @@ author_profile: true
 - 2024-2027(预计)，南京大学，新闻传播学院，文学硕士
 - 2020-2024，哈尔滨工业大学(深圳)，计算机科学与技术学院，工学学士
 
+## 工作论文
+1. **Huang, J.**, Yan, X. F., Wang, C. J.*, Using ChatGPT Makes Prosocial Behavior: A Quantitative Study on Weibo.
+2. Liu, Y., **Huang, J.**, Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM.
+
 ## 技能
 - 写作：中文(母语)、英文(熟练)
 - 对话：普通话(“母语”)、英语(日常交流)、粤语(日常交流)
