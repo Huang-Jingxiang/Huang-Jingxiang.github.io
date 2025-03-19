@@ -12,11 +12,11 @@ author_profile: true
 - Oct 14, 2024, Complete version 3, making it suitable for more detail user info.
 - Dec 05, 2024, Complete version 4, Biggggggg update! Now it can get every post of a specific user.
 
-## ChatGPT & Occupation
+## ChatGPT in Weibo
 ### schedule
 - Jul 24, 2024, Begin this project.
 - Nov 01, 2024, Finished extended abstract, ICA CAT division submission.
-- Jan 27, 2025, writing full paper now.
+- Jan 27, 2025, writing manuscript now.
 
 ## Scanning newspaper into text
 ### schedule
