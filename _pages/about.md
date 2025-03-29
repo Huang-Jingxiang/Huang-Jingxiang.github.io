@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/a997748f-4a7c-4279-b122-fd73b3f99896)---
 permalink: /
 title: "Huang Jingxiang"
 layout: single
@@ -17,6 +17,9 @@ Huang Jingxiang, a 2024 master's student majoring in journalism and communicatio
 ## Working papers
 1. **Huang, J.**, Yan, X. F., Wang, C. J.*. Using ChatGPT Enhances Binding Foundation: A Quantitative Study on Weibo Based on Social Cognitive Theory. (Writing manuscript)
 2. Liu, Y., **Huang, J.**, Wang, C. J.*. Mapping Causal Narratives in Political Discourse Using LLM. (under data analysis)
+3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(under data collecting)
+
+
 
 ## Awards
 - The 6th Communication Data Mining Competition, Third Prize (Public opinion trend and influence prediction based on large language model)
