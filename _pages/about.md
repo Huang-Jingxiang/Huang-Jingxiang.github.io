@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a997748f-4a7c-4279-b122-fd73b3f99896)---
+---
 permalink: /
 title: "Huang Jingxiang"
 layout: single
