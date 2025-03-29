@@ -5,7 +5,7 @@ permalink: /zh/
 author_profile: true
 
 ---
-“最盛大破茧是与自己告别 花树灼灼非关词客眷恋”
+“[最盛大破茧是与自己告别 花树灼灼非关词客眷恋](https://music.163.com/#/song?id=2153489801&uct2=%2B8IMeWXUOOskiuxF1aoJxQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t1&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.2.61)”
 {% include base_path %}
 ## 关于我
 黄靖翔，现为南京大学2024级新闻与传播专业硕士研究生。他是新闻传播学院的计算传播学实验中心的一员，同时也是苏格拉底实验室的一员。在[王成军](https://chengjun.github.io/)教授的指导下，他专注于计算社会科学领域的研究，具体兴趣涵盖自然语言处理和数据挖掘技术等。
