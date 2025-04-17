@@ -4,6 +4,7 @@ title: "我的拿手菜谱"
 permalink: /menu/
 author_profile: false
 ---
+![IMG_0929](https://github.com/user-attachments/assets/37e88b88-04d4-4471-a5f6-9e6e3b230eaf)
 由于只会做中餐，所以这页就用中文来写啦(Because I am only familiar with cooking Chinese food, this page will be written in Chinese.)
 ## 酸菜鱼
 ### 一些要点和提醒
