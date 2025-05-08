@@ -20,7 +20,13 @@ author_profile: true
 ## 工作论文
 1. **Huang, J.**, Yan, X. F., Wang, C. J.*. Using ChatGPT Enhances Binding Foundation: Evidence from Weibo Based on Social Cognitive Theory. (Writing manuscript)(写作ing)
 2. Liu, Y., **Huang, J.**, Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM.(数据分析ing)
-3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(收集数据ing)
+3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(数据分析ing)
+
+
+## 项目
+- 南京大学新闻传播学院研究生创新项目"卓越培育计划"
+  1. 主持一般项目2025GYB16
+  2. 参研重点项目2025GYA05
 
 ## 技能
 - 写作：中文(母语)、英文(熟练)
