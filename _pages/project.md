@@ -1,22 +1,17 @@
 ---
 layout: archive
-title: "Project"
+title: "Research"
 permalink: /project/
 author_profile: true
 ---
-
-## Sina spider
-### schedule
-- Jun 14, 2024, Complete version 1, making it multi-threaded and upload it into Xspace of ScoratesLab
-- Jun 18, 2024, Complete version 2, making it suitable for repost.
-- Oct 14, 2024, Complete version 3, making it suitable for more detail user info.
-- Dec 05, 2024, Complete version 4, Biggggggg update! Now it can get every post of a specific user.
-
 ## ChatGPT in Weibo
 ### schedule
 - Jul 24, 2024, Begin this project.
 - Nov 01, 2024, Finished extended abstract, ICA CAT division submission.
 - Jan 27, 2025, writing manuscript now.
+
+## Media decrease pollution
+- May 08, 2025, Data analysis
 
 ## Scanning newspaper into text
 ### schedule
