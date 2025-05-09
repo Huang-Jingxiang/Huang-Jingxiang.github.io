@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Research"
-permalink: /project/
+permalink: /research/
 author_profile: true
 ---
 ## ChatGPT in Weibo
