@@ -23,10 +23,10 @@ author_profile: true
 3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(数据分析ing)
 
 
-## 项目
+## 资金
 - 南京大学新闻传播学院研究生创新项目"卓越培育计划"
-  1. 主持一般项目2025GYB16
-  2. 参研重点项目2025GYA05
+  1. 2025-2027，主持一般项目2025GYB16
+  2. 2025-2027，参研重点项目2025GYA05
 
 ## 技能
 - 写作：中文(母语)、英文(熟练)
