@@ -20,9 +20,10 @@ Huang Jingxiang, a 2024 master's student majoring in journalism and communicatio
 3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(under data analysis)
 
 ## Grants
-- Distinguished Postgraduate Talent Cultivation Program, School of Journalism and Communication, Nanjing University
-  1. Host ordinary project 2025GYB16
-  2. Participated in key project 2025GYA05
+- Internal
+  - Distinguished Postgraduate Talent Cultivation Program, School of Journalism and Communication, Nanjing University
+    1. 2025-2027, 2025GYB16, PI
+    2. 2025-2027, 2025GYA05, Participation
 
 ## Awards
 - The 6th Communication Data Mining Competition, Third Prize (Public opinion trend and influence prediction based on large language model)
