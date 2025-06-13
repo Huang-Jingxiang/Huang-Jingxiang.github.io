@@ -18,7 +18,7 @@ author_profile: true
 - 2020-2024，哈尔滨工业大学(深圳)，计算机科学与技术学院，工学学士
 
 ## 工作论文
-1. **Huang, J.**, Yan, X. F., Wang, C. J.*. Using ChatGPT Enhances Binding Foundation: Evidence from Weibo Based on Social Cognitive Theory. (Writing manuscript)(写作ing)
+1. **Huang, J.**, Yan, X. F., Wang, C. J.*. Curiosity, Caution and Clarity: Exploring the Relationship Between Technology Awareness and Job Replacement Risk Perception on Weibo (写作ing)
 2. Liu, Y., **Huang, J.**, Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM.(数据分析ing)
 3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(数据分析ing)
 
