@@ -15,15 +15,15 @@ Huang Jingxiang, a 2024 master's student majoring in journalism and communicatio
 - B.A., Harbin Institute of Technology(Shenzhen), Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
 
 ## Working papers
-1. **Huang, J.**, Yan, X. F., Wang, C. J.*. Curiosity, Caution and Clarity: Exploring the Relationship Between Technology Awareness and Job Replacement Risk Perception on Weibo(Writing manuscript)
-2. Liu, Y., **Huang, J.**, Wang, C. J.*. Mapping Causal Narratives in Political Discourse Using LLM. (under data analysis)
+1. **Huang, J.**, Yan, X. F., Wang, C. J.*. Curiosity, Caution and Clarity: Exploring the Relationship Between Technology Awareness and Job Replacement Risk Perception on Weibo(writing manuscript)
+2. Liu, Y., **Huang, J.**, Wang, C. J.*. Mapping Causal Narratives in Political Discourse Using LLM. (writing manuscripts)
 3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(under data analysis)
 
 ## Grants
 - Internal
   - Distinguished Postgraduate Talent Cultivation Program, School of Journalism and Communication, Nanjing University
-    1. 2025-2027, 2025GYB16, PI
-    2. 2025-2027, 2025GYA05, Participation
+    1. 2025-2027, 2025GYB16, PI, ¥6000
+    2. 2025-2027, 2025GYA05, Participation, ¥8000
 
 ## Awards
 - The 6th Communication Data Mining Competition, Third Prize (Public opinion trend and influence prediction based on large language model)
