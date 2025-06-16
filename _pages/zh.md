@@ -19,20 +19,20 @@ author_profile: true
 
 ## 工作论文
 1. **Huang, J.**, Yan, X. F., Wang, C. J.*. Curiosity, Caution and Clarity: Exploring the Relationship Between Technology Awareness and Job Replacement Risk Perception on Weibo (写作ing)
-2. Liu, Y., **Huang, J.**, Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM.(数据分析ing)
+2. Liu, Y., **Huang, J.**, Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM.(写作ing)
 3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(数据分析ing)
 
 
 ## 资金
 - 南京大学新闻传播学院研究生创新项目"卓越培育计划"
-  1. 2025-2027，主持一般项目2025GYB16
-  2. 2025-2027，参研重点项目2025GYA05
+  1. 2025-2027，主持一般项目2025GYB16，¥6000
+  2. 2025-2027，参研重点项目2025GYA05，¥8000
 
 ## 技能
 - 写作：中文(母语)、英文(熟练)
 - 对话：普通话(“母语”)、英语(日常交流)、粤语(日常交流)
 - Python(用得最多且经常在用)
-- R(轻度使用)
+- R、Stata、Matlab(轻度使用)
 - MySQL、C、Java、Verilog(~~曾经学过但忘得差不多了~~ doge)
 - Photoshop、Premiere(轻度使用)
 - 烹饪(哈工大深圳“厨神的诞生”厨艺大赛决赛水平、哈工大深圳机电工程与自动化学院“宅家有味亦清欢”厨艺大赛一等奖) & (我会在[这里](https://huang-jingxiang.github.io/menu/)持续更新我的拿手菜！)
