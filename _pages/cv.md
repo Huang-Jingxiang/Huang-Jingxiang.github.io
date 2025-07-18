@@ -3,7 +3,8 @@ layout: page
 title: "Curriculum Vitae"
 permalink: /cv/
 ---
-
-<iframe src="/files/CV.pdf" width="80%" height="1000px" style="border:none;"></iframe>
+<div style="display: flex; justify-content: center;">
+  <iframe src="/files/CV.pdf" width="60%" height="800px" style="border: none;"></iframe>
+</div>
 
 ---
