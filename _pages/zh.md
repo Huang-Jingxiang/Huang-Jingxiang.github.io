@@ -19,6 +19,9 @@ author_profile: true
 - 2024-2027(预计)，南京大学，新闻传播学院，文学硕士
 - 2020-2024，哈尔滨工业大学(深圳)，计算机科学与技术学院，工学学士
 
+## 会议论文
+1. **Huang, J**., Yan, X. F., Wang, C. J.* (2025). Using ChatGPT Strengthens Binding Moral Foundations: Evidence from Weibo Based on Social Cognitive Theory. Paper to be present at National Communication Association (NCA) 111th Annual Convention, Human Communication and Technology Division, Denver, CO.
+
 ## 工作论文
 1. **Huang, J.**, Yan, X. F., Wang, C. J.*. Curiosity, Caution and Clarity: Exploring the Relationship Between Technology Awareness and Job Replacement Risk Perception on Weibo (写作ing)
 2. Liu, Y., **Huang, J.**, Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM.(写作ing)
