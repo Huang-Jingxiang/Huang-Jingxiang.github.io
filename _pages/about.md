@@ -16,6 +16,9 @@ Currently, my research interests focus on two aspects: one is trying to apply ca
 - M.A., Nanjing University, Nanjing, China. Department of Journalism and Communication.(September, 2024-June, 2027 Expected).
 - B.A., Harbin Institute of Technology(Shenzhen), Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
 
+## Conference papers
+1. **Huang, J**., Yan, X. F., Wang, C. J.* (2025). Using ChatGPT Strengthens Binding Moral Foundations: Evidence from Weibo Based on Social Cognitive Theory. Paper to be present at National Communication Association (NCA) 111th Annual Convention, Human Communication and Technology Division, Denver, CO.
+
 ## Working papers
 1. **Huang, J.**, Yan, X. F., Wang, C. J.*. Curiosity, Caution and Clarity: Exploring the Relationship Between Technology Awareness and Job Replacement Risk Perception on Weibo(writing manuscript)
 2. Liu, Y., **Huang, J.**, Wang, C. J.*. Mapping Causal Narratives in Political Discourse Using LLM. (writing manuscripts)
