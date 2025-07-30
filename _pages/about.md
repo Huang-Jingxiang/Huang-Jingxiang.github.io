@@ -41,7 +41,7 @@ Currently, my research interests focus on two aspects: one is trying to apply ca
 - R, Stata, Matlab(a little)
 - MySQL, C, Java, Verilog(~~have learned it, but almost have forgotten it~~ 😋)
 - Photoshop、Premiere(a little)
-- Cooking(HITSZ “厨神的诞生” cooking competition final, “宅家有味亦清欢” cooking competition first prize) & (I am sharing my menu [here](https://huang-jingxiang.github.io/menu/)!)
+- Cooking(HITSZ “厨神的诞生” cooking competition third prize, “宅家有味亦清欢” cooking competition first prize) & (I am sharing my menu [here](https://huang-jingxiang.github.io/menu/)!)
 
 [Email](raconz1211@gmail.com)/[Github](https://github.com/Huang-Jingxiang)/[Weibo](https://weibo.com/u/7313617592)
 
