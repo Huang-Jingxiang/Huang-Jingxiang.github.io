@@ -40,7 +40,7 @@ author_profile: true
 - R、Stata、Matlab(轻度使用)
 - MySQL、C、Java、Verilog(~~曾经学过但忘得差不多了~~ doge)
 - Photoshop、Premiere(轻度使用)
-- 烹饪(哈工大深圳“厨神的诞生”厨艺大赛决赛水平、哈工大深圳机电工程与自动化学院“宅家有味亦清欢”厨艺大赛一等奖) & (我会在[这里](https://huang-jingxiang.github.io/menu/)持续更新我的拿手菜！)
+- 烹饪(哈工大深圳“厨神的诞生”厨艺大赛三等奖、哈工大深圳机电工程与自动化学院“宅家有味亦清欢”厨艺大赛一等奖) & (我会在[这里](https://huang-jingxiang.github.io/menu/)持续更新我的拿手菜！)
 
 ## 奖项
 - 第六届传播数据挖掘竞赛三等奖(选题一：基于大语言模型的舆论趋势与影响力预测)
