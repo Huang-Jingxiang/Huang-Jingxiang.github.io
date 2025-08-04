@@ -12,6 +12,9 @@ redirect_from:
 Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is advised by Professor [Cheng-Jun Wang](https://Chengjun.github.io/). His research interests include computational social science, natural language processing and Data mining.
 
 Currently, my research interests focus on two aspects: one is trying to apply causal inference methods on social media data to explore whether a certain narrative with the spirit of the times in social media can have an impact on reality; the other is trying to innovatively apply NLP technology to social science research, so as to capture more insights from the text when analyzing large-scale corpus.
+
+What's more, I am the manager of the WeChat Official Account "CC_Daipaidong" (Computational Communication Daipaidong), [where](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzE5ODc1MjQ1MA==&action=getalbum&album_id=4105220332729024521&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGbm34SpJQiZf3H33NSUmzw&nolastread=1#wechat_redirect) I regularly share not only the academic papers I have read, but also my reflections on scholarly communication, research experiences, and insights gained throughout my academic journey. You're very welcome to follow and join the discussion!
+
 ## Education
 - M.A., Nanjing University, Nanjing, China. Department of Journalism and Communication.(September, 2024-June, 2027 Expected).
 - B.A., Harbin Institute of Technology(Shenzhen), Shenzhen, China. Department of Computer Science and Technology.(September, 2020-June, 2024).
