@@ -14,8 +14,11 @@ I completed the registration procedures and officially enrolled in school. I am 
 Wishhhhhhhhh me good luck!!!!
 update: still need to work hard hahaha!
 
-## 2025.07.17, My paper is accepted by NCA
+## 2025.07.17, My paper is accepted by NCA.
 🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+
+## 2025.08.04, My Wechat Official Account `计传大排档` is established.
+Welcome to follow!!!
 
 
 <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png">
