@@ -47,5 +47,6 @@ author_profile: true
 
 ## 奖项
 - 第六届传播数据挖掘竞赛三等奖(选题一：基于大语言模型的舆论趋势与影响力预测)
+- CAAI-BDSC2025社会计算创新大赛二等奖(赛道三：智能时代的交叉社会工坊)
 
 ![image](https://user-images.githubusercontent.com/543384/243150540-6efa85e2-8413-44fe-915b-0b0045c3960f.png)
