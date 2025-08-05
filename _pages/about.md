@@ -41,10 +41,8 @@ What's more, I am the manager of the WeChat Official Account `计传大排档` (
 ## Skills
 - Writing: Chinese(native), English(skilled)
 - Speaking: Mandarin(native), English(daily communication), Cantonese(daily communication)
-- Python(most frequently used)
-- R, Stata, Matlab(a little)
-- MySQL, C, Java, Verilog(~~have learned it, but almost have forgotten it~~ 😋)
-- Photoshop、Premiere(a little)
+- Computer language: Python(most frequently used), R, Stata, Matlab(a little), MySQL, C, Java, Verilog(~~have learned it, but almost have forgotten it~~ 😋)
+- Software: Photoshop, Premiere(a little), Gephi
 - Cooking(HITSZ “厨神的诞生” cooking competition third prize, “宅家有味亦清欢” cooking competition first prize) & (I am sharing my menu [here](https://huang-jingxiang.github.io/menu/)!)
 
 [Email](raconz1211@gmail.com)/[Github](https://github.com/Huang-Jingxiang)/[Weibo](https://weibo.com/u/7313617592)
