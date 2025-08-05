@@ -35,6 +35,7 @@ What's more, I am the manager of the WeChat Official Account `计传大排档` (
 
 ## Awards
 - The 6th Communication Data Mining Competition, Third Prize (Public opinion trend and influence prediction based on large language model)
+- CAAI-BDSC2025 Social Computing Innovation Competition, Second Prize (Societal X)
 
 
 ## Skills
