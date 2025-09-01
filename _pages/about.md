@@ -23,7 +23,8 @@ What's more, I am the manager of the WeChat Official Account `计传大排档` (
 1. **Huang, J**., Yan, X. F., Wang, C. J.* (2025). Using ChatGPT Strengthens Binding Moral Foundations: Evidence from Weibo Based on Social Cognitive Theory. Paper to be present at National Communication Association (NCA) 111th Annual Convention, Human Communication and Technology Division, Denver, CO.
 
 ## Working papers
-1. **Huang, J.**, Yan, X. F., Wang, C. J.*. Curiosity, Caution and Clarity: Exploring the Relationship Between Technology Awareness and Job Replacement Risk Perception on Weibo(writing manuscript)
+1. **Huang, J.**, Yan, X. F., Wang, C. J.*. A Little Knowledge is a Dangerous Thing: Unpacking a Three-Dimensional Framework of ChatGPT Awareness and Employment Substitution Risk Perception
+ Perception on Weibo(writing manuscript)
 2. Liu, Y., **Huang, J.**, Wang, C. J.*. Mapping Causal Narratives in Political Discourse Using LLM. (writing manuscripts)
 3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(under data analysis)
 
