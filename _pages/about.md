@@ -27,6 +27,7 @@ What's more, I am the manager of the WeChat Official Account `计传大排档` (
  Perception on Weibo(writing manuscript)
 2. Liu, Y., **Huang, J.**, Wang, C. J.*. Mapping Causal Narratives in Political Discourse Using LLM. (writing manuscripts)
 3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(under data analysis)
+4. 肖潇，**黄靖翔**，周振锋：观点的涟漪：基于社会判断理论的大语言模型智能体说服传播模拟
 
 ## Grants
 - Internal
