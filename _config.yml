@@ -21,7 +21,7 @@ repository               : "Huang-Jingxiang/Huang-Jingxiang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "nanobanana.png"
+  avatar           : "nanobanana_left.png"
   name             : "Huang Jingxiang(黄靖翔)"
   pronouns         : # example: "he/him"  
   bio              : "Master's Student"
