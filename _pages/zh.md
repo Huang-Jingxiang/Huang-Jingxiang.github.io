@@ -16,6 +16,8 @@ author_profile: true
 
 此外，我还是微信公众号`计传大排档`的主理人，在[那里](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzE5ODc1MjQ1MA==&action=getalbum&album_id=4105220332729024521&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGbm34SpJQiZf3H33NSUmzw&nolastread=1#wechat_redirect)，你能看到我分享的有意思、有意义、有价值的计算传播领域（也不一定全是）的论文，也能看到我的学术交流体会、做科研的心得经验等等。欢迎关注！🎉
 
+左边的图由`nano banana`生成，这玩意真牛，我也希望有一天我能练得这么猛:)
+
 > 你要亲眼看尽这世界 尘世不怜人卑怯 就这一命就再锋利些 只管迎刃一战那最痛快的约
 
 ## 教育经历
@@ -47,5 +49,6 @@ author_profile: true
 - 计算机语言：Python(用得最多且经常在用)、R、Stata、Matlab(轻度使用)、MySQL、C、Java、Verilog(~~曾经学过但忘得差不多了~~ doge)
 - 软件：Photoshop、Premiere(轻度使用)、Gephi
 - 烹饪(哈工大深圳“厨神的诞生”厨艺大赛三等奖、哈工大深圳机电工程与自动化学院“宅家有味亦清欢”厨艺大赛一等奖) & (我会在[这里](https://huang-jingxiang.github.io/menu/)持续更新我的拿手菜！)
+- 健身：在努力变猛的过程中
 
 ![image](https://user-images.githubusercontent.com/543384/243150540-6efa85e2-8413-44fe-915b-0b0045c3960f.png)
