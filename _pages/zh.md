@@ -33,7 +33,7 @@ author_profile: true
 ## 工作论文
 1. **Huang, J.**, Yan, X. F., Wang, C. J.*. A Little Knowledge is a Dangerous Thing: Unpacking a Three-Dimensional Framework of ChatGPT Awareness and Employment Substitution Risk Perception.(写作ing)
 2. Liu, Y., **Huang, J.**, Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM.(写作ing)
-3. **Huang, J.**, Wang, C. J.*. The Power of Mass Media: How Environmental Reporting Decrease Pollution Emissions in China.(数据分析ing)
+3. **Huang, J.**, Wang, C. J.*. After the Heat Fades: How the Suspension of Weibo’s Hot Topic Trending Shaped Media‘s Content Creation.(数据分析ing)
 4. 肖潇，**黄靖翔**，周振锋：观点的涟漪：基于社会判断理论的大语言模型智能体说服传播模拟
 
 
