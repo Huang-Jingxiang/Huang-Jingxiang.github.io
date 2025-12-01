@@ -5,15 +5,13 @@ permalink: /zh/
 author_profile: true
 
 ---
-“[最盛大破茧是与自己告别 花树灼灼非关词客眷恋](https://music.163.com/#/song?id=2153489801&uct2=%2B8IMeWXUOOskiuxF1aoJxQ%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t1&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=76001&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.2.61)”
 {% include base_path %}
 ## 关于我
 黄靖翔，现为南京大学2024级新闻与传播专业硕士研究生。他是新闻传播学院的计算传播学实验中心的一员，同时也是苏格拉底实验室的一员。在[王成军](https://chengjun.github.io/)教授的指导下，他专注于计算社会科学领域的研究，具体兴趣涵盖自然语言处理和数据挖掘技术等。
 
 目前，我的研究兴趣主要集中在两个方面：一是尝试将因果推断的方法应用于社交媒体数据中，探究社交媒体中某种具有时代精神的叙事是否能对现实产生影响；二是尝试将自然语言处理技术创新性地运用至社会科学研究中，在分析大规模语料库时能从文本中捕获更多见解。
 
-在课余时间，我喜欢呆在厨房里捣鼓吃的(这或许能成为我饭点不能及时回消息的理由哈哈)，可以在我的[微博](https://weibo.com/u/7313617592)看到我的捣鼓日常。同时，我也是一个热衷于去喜欢的歌手线下的社恐(特别是银临)。
-
+在课余时间，我喜欢呆在厨房里捣鼓吃的(这或许能成为我饭点不能及时回消息的理由哈哈)，可以在我的[微博](https://weibo.com/u/7313617592)看到我的捣鼓日常。
 此外，我还是微信公众号`计传大排档`的主理人，在[那里](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzE5ODc1MjQ1MA==&action=getalbum&album_id=4105220332729024521&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGbm34SpJQiZf3H33NSUmzw&nolastread=1#wechat_redirect)，你能看到我分享的有意思、有意义、有价值的计算传播领域（也不一定全是）的论文，也能看到我的学术交流体会、做科研的心得经验等等。欢迎关注！🎉
 
 左边的图由`nano banana`生成，这玩意真牛，我也希望有一天我能练得这么猛:)
