@@ -22,10 +22,12 @@ author_profile: true
 - 2020-2024，哈尔滨工业大学(深圳)，计算机科学与技术学院，工学学士
 
 ## 会议论文
-1. **Huang, J**., Yan, X. F., Wang, C. J.* (2025). Using ChatGPT Strengthens Binding Moral Foundations: Evidence from Weibo Based on Social Cognitive Theory. Paper to be present at National Communication Association (NCA) 111th Annual Convention, Human Communication and Technology Division, Denver, CO.
-2. **Huang, J.**, Yan, X. F., Wang, C. J.* (2025). A Little Knowledge is a Dangerous Thing: Unpacking a Three-Dimensional Framework of ChatGPT Awareness and Employment Substitution Risk Perception on Weibo. Paper to be present at 智能与计算传播学2025年年会, 北京.
-3. 肖潇，**黄靖翔**，周振锋，王成军*(2025).观点的涟漪：基于社会判断理论的大语言模型智能体说服传播模拟. Paper to be present at 智能与计算传播学2025年年会, 北京.
-4. 刘杨栋，**黄靖翔**，王成军*(2025).社交媒体上的竞争性叙事是否导致政治极化：基于LLM agent的社会模拟实验. Paper to be present at 智能与计算传播学2025年年会, 北京.
+1. **Huang, J.**, Yan, X. F., Wang, C. J.* (2026). A Little Knowledge is a Dangerous Thing: Unpacking a Three-Dimensional Framework of ChatGPT Awareness and Employment Substitution Risk Perception. Paper to be present at International Communication Association (ICA) 76th Annual Convention, Communication & Technology Division, Cape Town. [Top Paper]
+2. **Huang, J.**, Wang, C. J.* (2026). After the Heat Fades: How the Suspension of Weibo’s Trending Topic Shape Media’s Production. Paper to be present at International Communication Association (ICA) 76th Annual Convention, Mass Communication Division, Cape Town.
+3. **Huang, J**., Yan, X. F., Wang, C. J.* (2025). Using ChatGPT Strengthens Binding Moral Foundations: Evidence from Weibo Based on Social Cognitive Theory. Paper to be present at National Communication Association (NCA) 111th Annual Convention, Human Communication and Technology Division, Denver, CO.
+4. **Huang, J.**, Yan, X. F., Wang, C. J.* (2025). A Little Knowledge is a Dangerous Thing: Unpacking a Three-Dimensional Framework of ChatGPT Awareness and Employment Substitution Risk Perception on Weibo. Paper to be present at 智能与计算传播学2025年年会, 北京.
+5. 肖潇，**黄靖翔**，周振锋，王成军*(2025).观点的涟漪：基于社会判断理论的大语言模型智能体说服传播模拟. Paper to be present at 智能与计算传播学2025年年会, 北京.
+6. 刘杨栋，**黄靖翔**，王成军*(2025).社交媒体上的竞争性叙事是否导致政治极化：基于LLM agent的社会模拟实验. Paper to be present at 智能与计算传播学2025年年会, 北京.
 
 ## 工作论文
 1. **Huang, J.**, Yan, X. F., Wang, C. J.*. A Little Knowledge is a Dangerous Thing: Unpacking a Three-Dimensional Framework of ChatGPT Awareness and Employment Substitution Risk Perception.(写作ing)
@@ -40,6 +42,9 @@ author_profile: true
   1. 2025-2027，主持一般项目2025GYB16，¥6000
   2. 2025-2027，参研重点项目2025GYA05，¥8000
  
+- 暨南大学国际传播研究院年度项目
+  - 2026，参研重点项目IIC-ZD202503，¥50000
+ 
 ## 服务
 - 助教，**计算传播学导论**，2025年秋季学期，授课教师：王成军教授
  
@@ -47,6 +52,7 @@ author_profile: true
 - 第六届传播数据挖掘竞赛三等奖(选题一：基于大语言模型的舆论趋势与影响力预测), 2024
 - CAAI-BDSC2025社会计算创新大赛二等奖(赛道三：智能时代的交叉社会工坊), 2025
 - 第七届传播数据挖掘竞赛一等奖(选题二：跨平台信息传播与协同效应), 2025
+- 国际传播学会76届年会传播与技术分部最佳论文奖（ICA 76th CAT division Top Paper），2026
 
 ## 技能
 - 写作：中文(母语)、英文(熟练)
