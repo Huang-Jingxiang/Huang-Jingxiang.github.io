@@ -22,7 +22,7 @@ author_profile: true
 - 2020-2024，哈尔滨工业大学(深圳)，计算机科学与技术学院，工学学士
 
 ## 会议论文
-1. **Huang, J.**, Yan, X. F., Wang, C. J.* (2026). A Little Knowledge is a Dangerous Thing: Unpacking a Three-Dimensional Framework of ChatGPT Awareness and Employment Substitution Risk Perception. Paper to be present at International Communication Association (ICA) 76th Annual Convention, Communication & Technology Division, Cape Town. [Top Paper]
+1. **Huang, J.**, Yan, X. F., Wang, C. J.* (2026). A Little Knowledge is a Dangerous Thing: Unpacking a Three-Dimensional Framework of ChatGPT Awareness and Employment Substitution Risk Perception. Paper to be present at International Communication Association (ICA) 76th Annual Convention, Communication & Technology Division, Cape Town. [**Top Paper**]
 2. **Huang, J.**, Wang, C. J.* (2026). After the Heat Fades: How the Suspension of Weibo’s Trending Topic Shape Media’s Production. Paper to be present at International Communication Association (ICA) 76th Annual Convention, Mass Communication Division, Cape Town.
 3. **Huang, J**., Yan, X. F., Wang, C. J.* (2025). Using ChatGPT Strengthens Binding Moral Foundations: Evidence from Weibo Based on Social Cognitive Theory. Paper to be present at National Communication Association (NCA) 111th Annual Convention, Human Communication and Technology Division, Denver, CO.
 4. **Huang, J.**, Yan, X. F., Wang, C. J.* (2025). A Little Knowledge is a Dangerous Thing: Unpacking a Three-Dimensional Framework of ChatGPT Awareness and Employment Substitution Risk Perception on Weibo. Paper to be present at 智能与计算传播学2025年年会, 北京.
