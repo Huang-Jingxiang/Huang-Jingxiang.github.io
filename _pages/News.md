@@ -20,5 +20,8 @@ update: still need to work hard hahaha!
 ## 2025.08.04, My Wechat Official Account `计传大排档` is established.
 Welcome to follow!!!
 
+## 2025.01.15, My two papers are accepted by ICA.
+🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉🎉
+
 
 <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png">
