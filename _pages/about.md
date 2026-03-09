@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## About me
-Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is advised by Professor [Cheng-Jun Wang](https://Chengjun.github.io/). His research interests include computational social science, natural language processing and Data mining.
+Huang Jingxiang, a 2024 master's student majoring in journalism and communication at Nanjing University. He is a member of the Computational Communication Collaboratory. He is advised by Professor [Cheng-Jun Wang](https://Chengjun.github.io/). His research interests include computational social science, natural language processing and Data mining. His research won the Top Paper Award at the annual conference of ICA.
 
 Currently, my research interests focus on two aspects: one is trying to apply causal inference methods on social media data to explore whether a certain narrative with the spirit of the times in social media can have an impact on reality; the other is trying to innovatively apply NLP technology to social science research, so as to capture more insights from the text when analyzing large-scale corpus.
 
