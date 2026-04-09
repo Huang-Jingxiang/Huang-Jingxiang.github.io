@@ -16,4 +16,6 @@ main:
     
   - title: "中文"
     url: /zh/
-    
+
+  - title: "note"
+    url: /note/
