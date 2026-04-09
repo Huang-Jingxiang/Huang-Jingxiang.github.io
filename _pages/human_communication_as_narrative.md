@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Curriculum Vitae"
+layout: archive
+title: "human_communication_as_narrative"
 permalink: /human_communication_as_narrative/
+profile: false
 ---
 
 the latest upload was at 9th April, 2026
