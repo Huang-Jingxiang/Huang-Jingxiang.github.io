@@ -5,3 +5,7 @@ permalink: /human_communication_as_narrative/
 ---
 
 the latest upload was at 9th April, 2026
+
+<div style="display: flex; justify-content: center;">
+  <iframe src="/files/human_communication_as_narrative.pdf" width="75%" height="800px" style="border: none;"></iframe>
+</div>
