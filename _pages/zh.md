@@ -30,11 +30,7 @@ author_profile: true
 6. 刘杨栋，**黄靖翔**，王成军*(2025).社交媒体上的竞争性叙事是否导致政治极化：基于LLM agent的社会模拟实验. Paper to be present at 智能与计算传播学2025年年会, 北京.
 
 ## 工作论文
-1. **Huang, J.**, Yan, X. F., Wang, C. J.*. A Little Knowledge is a Dangerous Thing: Unpacking a Three-Dimensional Framework of ChatGPT Awareness and Employment Substitution Risk Perception.(写作ing)
-2. Liu, Y., **Huang, J.**, Wang, C. J.* Mapping Causal Narratives in Political Discourse Using LLM.(写作ing)
-3. **Huang, J.**, Wang, C. J.*. After the Heat Fades: How the Suspension of Weibo’s Hot Topic Trending Shaped Media‘s Content Creation.(数据分析ing)
-4. 肖潇，**黄靖翔**，周振锋：观点的涟漪：基于社会判断理论的大语言模型智能体说服传播模拟. (写作ing)
-5. 刘杨栋，**黄靖翔**，牟馨忆，王成军*. 社交媒体上的竞争性叙事是否导致政治极化：基于LLM agent的社会模拟实验. (数据分析ing)
+因为主动或被动地kill掉太多idea了，这个地儿就不放了
 
 
 ## 资金
