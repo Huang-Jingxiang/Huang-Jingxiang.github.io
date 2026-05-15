@@ -12,7 +12,7 @@ main:
   #   url: /News/    
 
   - title: "Zh"
-  url: /zh/
+    url: /zh/
 
   - title: "CV"
     url: /cv/
