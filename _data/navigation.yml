@@ -8,14 +8,14 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  - title: "News"
-    url: /News/    
+  # - title: "News"
+  #   url: /News/    
+
+  - title: "Zh"
+  url: /zh/
 
   - title: "CV"
     url: /cv/
-    
-  - title: "中文"
-    url: /zh/
 
   - title: "note"
     url: /note/
