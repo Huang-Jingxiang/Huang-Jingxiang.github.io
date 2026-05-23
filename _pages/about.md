@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Huang Jingxiang"
+title: "Jingxiang Huang"
 layout: single
 author_profile: true
 redirect_from: 
