@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Huang Jingxiang"
+title                    : "Jingxiang Huang"
 title_separator          : "-"
 name                     : &name "黄靖翔"
 description              : &description "最盛大破茧是与自己告别"
@@ -22,7 +22,7 @@ repository               : "Huang-Jingxiang/Huang-Jingxiang.github.io"
 author:
   # Biographic information
   avatar           : "nanobanana_left.png"
-  name             : "Huang Jingxiang(黄靖翔)"
+  name             : "Jingxiang Huang(黄靖翔)"
   pronouns         : # example: "he/him"  
   bio              : "Master's Student"
   location         : "Nanjing, China"
