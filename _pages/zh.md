@@ -51,6 +51,7 @@ author_profile: true
 - 写作：中文(母语)、英文(熟练)
 - 对话：普通话(“母语”)、英语(日常交流)、粤语(日常交流)
 - 计算机语言：Python(用得最多且经常在用)、R、Stata、Matlab(轻度使用)、MySQL、C、Java、Verilog(~~曾经学过但忘得差不多了~~ doge)
+  - 别担心，vibe coding能够帮我解决困难:)
 - 软件：Photoshop、Premiere(轻度使用)、Gephi
 - 烹饪(哈工大深圳“厨神的诞生”厨艺大赛三等奖、哈工大深圳机电工程与自动化学院“宅家有味亦清欢”厨艺大赛一等奖) & (我会在[这里](https://huang-jingxiang.github.io/menu/)持续更新我的拿手菜！)
 - 健身：在努力变猛的过程中
