@@ -52,6 +52,7 @@ I’ve killed off too many ideas, either on purpose or by accident, so I won’t
 - Writing: Chinese(native), English(skilled)
 - Speaking: Mandarin(native), English(daily communication), Cantonese(daily communication)
 - Computer language: Python(most frequently used), R, Stata, Matlab(a little), MySQL, C, Java, Verilog(~~have learned it, but almost have forgotten it~~ 😋)
+  - But dont worry, I could do all by vibe coding now :)  
 - Software: Photoshop, Premiere(a little), Gephi
 - Cooking(HITSZ “厨神的诞生” cooking competition third prize, “宅家有味亦清欢” cooking competition first prize) & (I am sharing my menu [here](https://huang-jingxiang.github.io/menu/)!)
 - Fitness: I am gonna to be stronger!
