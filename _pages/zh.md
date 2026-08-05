@@ -42,10 +42,12 @@ author_profile: true
 - 助教，**计算传播学导论**，2025年秋季学期，授课教师：王成军教授
  
 ## 奖项
-- 第六届传播数据挖掘竞赛三等奖(选题一：基于大语言模型的舆论趋势与影响力预测), 2024
-- CAAI-BDSC2025社会计算创新大赛二等奖(赛道三：智能时代的交叉社会工坊), 2025
-- 第七届传播数据挖掘竞赛一等奖(选题二：跨平台信息传播与协同效应), 2025
-- 国际传播学会76届年会传播与技术分部最佳论文奖（ICA 76th CAT division Top Paper），2026
+- 国际传播学会76届年会传播与技术分部最佳论文奖（ICA 76th CAT division Top Paper）, 2026 [链接](https://www.facebook.com/icacat/posts/pfbid0sgBt7ZsLhZkUFun6kGcWsfvhCPK7SHo5KTjTo5ESzhxoRt3YdKWC85LW5yiRBt7Ql)
+- 第七届传播数据挖掘竞赛一等奖(选题二：跨平台信息传播与协同效应), 2025 [链接](https://mp.weixin.qq.com/s/y_Q6UHnEOglDLIsM_lpTqA)
+- CAAI-BDSC2025社会计算创新大赛二等奖(赛道三：智能时代的交叉社会工坊), 2025 [链接](https://mp.weixin.qq.com/s/nzwOz282Ek4LKk5oAM_OeQ?scene=1)
+- 第六届传播数据挖掘竞赛三等奖(选题一：基于大语言模型的舆论趋势与影响力预测), 2024 [链接](https://mp.weixin.qq.com/s/XuigIEQKCj_SAlcR-thxUw)
+- 哈工大深圳“厨神的诞生”厨艺大赛三等奖, 2023 [链接](https://mp.weixin.qq.com/s/NJY9G1XhWd1ihOj0JvWSfQ)
+
 
 ## 技能
 - 写作：中文(母语)、英文(熟练)
