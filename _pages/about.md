@@ -42,10 +42,11 @@ I’ve killed off too many ideas, either on purpose or by accident, so I won’t
 - Teaching assistant, **Introduction to conputational communication**, 2025 fall,  Prof. Cheng-Jun Wang
 
 ## Awards
-- The 6th Communication Data Mining Competition, Third Prize (Public opinion trend and influence prediction based on large language model), 2024
-- CAAI-BDSC2025 Social Computing Innovation Competition, Second Prize (Societal X), 2025
-- The 7th Communication Data Mining Competition, First Prize (Cross-platform information dissemination and synergy), 2025
-- Top Paper Award, Communication & Technology Division, International Communication Association (ICA), 2026
+- Top Paper Award, Communication & Technology Division, International Communication Association (ICA), 2026 [link](https://www.facebook.com/icacat/posts/pfbid0sgBt7ZsLhZkUFun6kGcWsfvhCPK7SHo5KTjTo5ESzhxoRt3YdKWC85LW5yiRBt7Ql)
+- The 7th Communication Data Mining Competition, First Prize (Cross-platform information dissemination and synergy), 2025 [link](https://mp.weixin.qq.com/s/y_Q6UHnEOglDLIsM_lpTqA)
+- CAAI-BDSC2025 Social Computing Innovation Competition, Second Prize (Societal X), 2025 [link](https://mp.weixin.qq.com/s/nzwOz282Ek4LKk5oAM_OeQ?scene=1)
+- The 6th Communication Data Mining Competition, Third Prize (Public opinion trend and influence prediction based on large language model), 2024 [link](https://mp.weixin.qq.com/s/XuigIEQKCj_SAlcR-thxUw)
+- HITSZ “The Birth of a Culinary King” cooking competition third prize, 2023 [link](https://mp.weixin.qq.com/s/NJY9G1XhWd1ihOj0JvWSfQ)
 
 
 ## Skills
@@ -54,7 +55,7 @@ I’ve killed off too many ideas, either on purpose or by accident, so I won’t
 - Computer language: Python(most frequently used), R, Stata, Matlab(a little), MySQL, C, Java, Verilog(~~have learned it, but almost have forgotten it~~ 😋)
   - But dont worry, I could do all by vibe coding now :)  
 - Software: Photoshop, Premiere(a little), Gephi
-- Cooking(HITSZ “厨神的诞生” cooking competition third prize, “宅家有味亦清欢” cooking competition first prize) & (I am sharing my menu [here](https://huang-jingxiang.github.io/menu/)!)
+- Cooking(I am sharing my menu [here](https://huang-jingxiang.github.io/menu/)!)
 - Fitness: I am gonna to be stronger!
 
 [Email](raconz1211@gmail.com)/[Github](https://github.com/Huang-Jingxiang)/[Weibo](https://weibo.com/u/7313617592)
