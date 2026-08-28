@@ -39,7 +39,7 @@ author_profile: true
   - 2026，参研重点项目IIC-ZD202503，¥50000
  
 ## 服务
-- 助教，**计算传播学导论**，2025年秋季学期，2026年秋季学期，授课教师：王成军教授
+- 助教（协助讲授部分内容；课后答疑；作业批改），**计算传播学导论**，2025年秋季学期，2026年秋季学期，授课教师：王成军教授
  
 ## 奖项
 - 国际传播学会76届年会传播与技术分部最佳论文奖（ICA 76th CAT division Top Paper）, 2026 [链接](https://www.facebook.com/icacat/posts/pfbid0sgBt7ZsLhZkUFun6kGcWsfvhCPK7SHo5KTjTo5ESzhxoRt3YdKWC85LW5yiRBt7Ql)
