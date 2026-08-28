@@ -39,7 +39,7 @@ I’ve killed off too many ideas, either on purpose or by accident, so I won’t
   - 中国神话人物跨文化传播影响因素和模拟研究，暨南大学国际传播研究院年度项目（项目批准号：IIC-ZD202503，5万元），2026/01-2026/12, 参研
 
 ## Service
-- Teaching assistant, **Introduction to conputational communication**, 2025 fall, 2026 fall,  Prof. Cheng-Jun Wang
+- Teaching assistant (Assisting with teaching some content; answering questions after class; grading homework), **Introduction to conputational communication**, 2025 fall, 2026 fall,  Prof. Cheng-Jun Wang
 
 ## Awards
 - Top Paper Award, Communication & Technology Division, International Communication Association (ICA), 2026 [link](https://www.facebook.com/icacat/posts/pfbid0sgBt7ZsLhZkUFun6kGcWsfvhCPK7SHo5KTjTo5ESzhxoRt3YdKWC85LW5yiRBt7Ql)
