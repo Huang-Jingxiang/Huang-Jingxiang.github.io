@@ -3,7 +3,7 @@ layout: page
 title: "Curriculum Vitae"
 permalink: /cv/
 ---
-- The latest update was on 25 May 2026.
+- The latest update was on 25 May 2026. Compared to my personal website, CV is updated less frequently.
 
 <div style="display: flex; justify-content: center;">
   <iframe src="/files/CV.pdf" width="75%" height="800px" style="border: none;"></iframe>
