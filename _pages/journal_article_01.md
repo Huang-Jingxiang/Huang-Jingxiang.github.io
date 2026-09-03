@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "journal_article_01"
+title: "Political Satire and the Decline of Discourse Quality: Evidence from China’s Online Public Sphere"
 permalink: /journal_article_01/
 author_profile: false
 ---
 
-# Political Satire and the Decline of Discourse Quality: Evidence from China’s Online Public Sphere
+Chen, X., & Guan, T. (2026). Political Satire and the Decline of Discourse Quality: Evidence from China’s Online Public Sphere. The China Quarterly, 266, 435–452. https://doi.org/10.1017/S0305741026102124
 
-Chen, Xiaotong, and Tianru Guan. 2026. “Political Satire and the Decline of Discourse Quality: Evidence from China’s Online Public Sphere.” *The China Quarterly*, 1–18. [https://doi.org/10.1017/S0305741026102124](https://doi.org/10.1017/S0305741026102124)
+
 
 ## 摘要
 既有大量研究探讨了政治讽刺究竟是促进还是抑制了政治讨论, 但鲜有学者关注它如何塑造话语质量。本研究通过审视中国语境下网络讨论的实质内容, 考察了政治讽刺对话语质量的影响。基于对中国主流社交媒体平台上对“延迟退休”政策讨论的手动编码内容分析, 本研究分析了知乎平台上的原创帖文及其后续回复 (N = 3,400), 以评估讽刺在网络政治讨论中的作用。研究结果显示, 政治讽刺显著降低了话题相关性和理性程度, 对文明程度无显著影响, 且几乎完全阻断了观点的互惠互动。这些发现实现了理论视角的转换, 即从关注讽刺是否刺激政治参与, 转向关注其如何影响协商的实质质量。本研究也呼吁学界重新评估政治讽刺常被过度强调的积极作用, 警惕其侵蚀理性和建设性话语的潜在风险。
