@@ -42,6 +42,7 @@ author_profile: true
 - 助教（协助讲授部分内容；课后答疑；作业批改），**计算传播学导论**，2025年秋季学期，2026年秋季学期，授课教师：王成军教授
  
 ## 奖项
+- 研究生国家奖学金, 2026
 - 国际传播学会76届年会传播与技术分部最佳论文奖（ICA 76th CAT division Top Paper）, 2026 [链接](https://www.facebook.com/icacat/posts/pfbid0sgBt7ZsLhZkUFun6kGcWsfvhCPK7SHo5KTjTo5ESzhxoRt3YdKWC85LW5yiRBt7Ql)
 - 第七届传播数据挖掘竞赛一等奖(选题二：跨平台信息传播与协同效应), 2025 [链接](https://mp.weixin.qq.com/s/y_Q6UHnEOglDLIsM_lpTqA)
 - CAAI-BDSC2025社会计算创新大赛二等奖(赛道三：智能时代的交叉社会工坊), 2025 [链接](https://mp.weixin.qq.com/s/nzwOz282Ek4LKk5oAM_OeQ?scene=1)
