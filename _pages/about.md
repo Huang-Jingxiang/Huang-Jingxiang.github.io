@@ -42,6 +42,7 @@ I’ve killed off too many ideas, either on purpose or by accident, so I won’t
 - Teaching assistant (Assisting with teaching some content; answering questions after class; grading homework), **Introduction to conputational communication**, 2025 fall, 2026 fall,  Prof. Cheng-Jun Wang
 
 ## Awards
+- National Scholarship for Graduate Students, 2026
 - Top Paper Award, Communication & Technology Division, International Communication Association (ICA), 2026 [link](https://www.facebook.com/icacat/posts/pfbid0sgBt7ZsLhZkUFun6kGcWsfvhCPK7SHo5KTjTo5ESzhxoRt3YdKWC85LW5yiRBt7Ql)
 - The 7th Communication Data Mining Competition, First Prize (Cross-platform information dissemination and synergy), 2025 [link](https://mp.weixin.qq.com/s/y_Q6UHnEOglDLIsM_lpTqA)
 - CAAI-BDSC2025 Social Computing Innovation Competition, Second Prize (Societal X), 2025 [link](https://mp.weixin.qq.com/s/nzwOz282Ek4LKk5oAM_OeQ?scene=1)
