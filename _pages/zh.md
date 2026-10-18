@@ -14,9 +14,6 @@ author_profile: true
 在课余时间，我喜欢呆在厨房里捣鼓吃的(这或许能成为我饭点不能及时回消息的理由哈哈)，可以在我的[微博](https://weibo.com/u/7313617592)看到我的捣鼓日常。
 此外，我还是微信公众号`计传大排档`的主理人，在[那里](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzE5ODc1MjQ1MA==&action=getalbum&album_id=4105220332729024521&subscene=159&subscene=&scenenote=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGbm34SpJQiZf3H33NSUmzw&nolastread=1#wechat_redirect)，你能看到我分享的有意思、有意义、有价值的计算传播领域（也不一定全是）的论文，也能看到我的学术交流体会、做科研的心得经验等等。欢迎关注！🎉
 
-左边的图由`nano banana`生成，这玩意真牛，我也希望有一天我能练得这么猛:)
-
-
 ## 教育经历
 - 2024-2027(预计)，南京大学，新闻传播学院，文学硕士
 - 2020-2024，哈尔滨工业大学(深圳)，计算机科学与技术学院，工学学士
