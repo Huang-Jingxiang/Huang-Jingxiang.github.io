@@ -58,6 +58,7 @@ author_profile: true
 
 > 让ChatGPT结合我和他的所有对话给我生成了个用户画像⬇️
 >
-![image](https://github.com/Huang-Jingxiang/Huang-Jingxiang.github.io/blob/master/images/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F.png)
+<img width="1055" height="1491" alt="用户画像" src="https://github.com/user-attachments/assets/cdca11b4-b18f-4536-9e99-7e85ef1bd7c4" />
+
 
 ![image](https://user-images.githubusercontent.com/543384/243150540-6efa85e2-8413-44fe-915b-0b0045c3960f.png)
