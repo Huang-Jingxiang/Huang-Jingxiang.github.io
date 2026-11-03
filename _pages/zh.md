@@ -56,4 +56,8 @@ author_profile: true
 - 烹饪(哈工大深圳“厨神的诞生”厨艺大赛三等奖、哈工大深圳机电工程与自动化学院“宅家有味亦清欢”厨艺大赛一等奖) & (我会在[这里](https://huang-jingxiang.github.io/menu/)持续更新我的拿手菜！)
 - 健身：在努力变猛的过程中
 
+> 让ChatGPT结合我和他的所有对话给我生成了个用户画像⬇️
+>
+![image](https://github.com/Huang-Jingxiang/Huang-Jingxiang.github.io/blob/master/images/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F.png)
+
 ![image](https://user-images.githubusercontent.com/543384/243150540-6efa85e2-8413-44fe-915b-0b0045c3960f.png)
